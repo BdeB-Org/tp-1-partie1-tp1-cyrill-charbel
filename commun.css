@@ -42,3 +42,6 @@ img.iphone, img.acc {
     max-width: 1200px;
     margin: 0 auto;
 }
+p {
+    font-size: 20px;
+}
