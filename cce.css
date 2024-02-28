@@ -1,0 +1,52 @@
+img{  width: 150px;
+height: 100px;
+}
+header{
+    display: flex;
+    align-items: center;
+    
+}
+header>p{
+    font-size: 50px;
+}
+
+.AP img{
+    width: 250px;
+    height: 250px;
+}
+
+h3{
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: -30px;
+    
+}
+
+.AM img{
+    width: 250px;
+    height: 300px;
+}
+.S1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 300px;
+}
+
+.S2{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    gap: 300px;
+}
+.h3a{
+    margin-right: 50px;
+}
+.h3b{
+    margin-right: 30px;
+}
+
+.headA{
+    font-size: 50px;
+    color: black;
+}
