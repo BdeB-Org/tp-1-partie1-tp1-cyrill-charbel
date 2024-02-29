@@ -1,5 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 header {
     background-color: bisque;
     padding: 20px;
-    font-size: 35px;
+    margin: 0;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+th{
+    padding-right: 50px;
+}
+img {
+    mix-blend-mode: multiply;
+    width: 100px;
+    height: 100px;
+}
+img.loop, img.cart {
+    width: 75px;
+    height: 75px;
+}
+img.iphone, img.acc {
+    width: 500px;
+    height: 400px;
+}
+.catprod {
+    width: 50%;
+    margin-bottom: 20xp;
+    text-align: center;
+}
+.categories{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+p {
+    font-size: 20px;
 }
