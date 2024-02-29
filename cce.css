@@ -50,3 +50,33 @@ h3{
     font-size: 50px;
     color: black;
 }
+.AP1 img {
+    width: 500px;
+    height: 500px;
+    margin-left: 200px;
+}
+
+.aph1 {
+    display: flex;
+    font-size: 70px;
+    float: right;
+    margin-right: 300px;
+    margin-top: -30px;
+}
+
+.aph2{
+    display: flex;
+    font-size: 40px;
+    float: right;
+    margin-right: -250px;
+    margin-top: 120px;
+
+}
+
+.aph3{
+    display: flex;
+    font-size: 30px;
+    float: right;
+    margin-right: -500px;
+    margin-top: 190px;
+}
