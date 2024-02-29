@@ -45,3 +45,21 @@ img.iphone, img.acc {
 p {
     font-size: 20px;
 }
+.tel {
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 800px;
+    height: 650px;
+}
+.text {
+    display: flex;
+}
+.element2 {
+    margin-left: 50px;
+    margin-top: 120px;
+}
+.element2a {
+    font-size: 30px;
+    margin-right: 200px;
+    line-height: 1.5;
+}
